@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.divider {
+    height: 50px; /* Match the height of the image */
+    border-left: 1px solid #000; /* Adjust color and width as needed */
+    margin-left: 50px; /* Adjust spacing as needed */
+}
+
+.spacer {
+    margin-right: 30px; /* Adjust spacing as needed */
+}

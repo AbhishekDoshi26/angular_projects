@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './navbar.component.css',
 })
 export class NavbarComponent {
-
+  url: string = "https://raw.githubusercontent.com/AbhishekDoshi26/abhishek_doshi_portfolio/refs/heads/main/assets/images/logo_dark.png"
 }
